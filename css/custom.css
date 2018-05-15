@@ -4,6 +4,7 @@ body, html{
 }
 #img{
 	padding: 45px;
+	text-align: center;
 }
 #mainNav {
 	margin: 0;
