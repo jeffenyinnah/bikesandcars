@@ -3,7 +3,13 @@ body, html{
 	height: 100%;
 }
 
-
+#mainNav {
+	margin: 0;
+}
 #mainNav .navbar-brand, #mainNav .navbar-nav li.nav-item a {
 	color:white;
+}
+
+#mainNav .navbar-nav li.nav-item a {
+	list-style-position: right;
 }
